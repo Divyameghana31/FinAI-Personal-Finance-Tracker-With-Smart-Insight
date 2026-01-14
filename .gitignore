@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+transactions.db
+
+# Node / React
+node_modules/
+dist/
+
+# Environment
+.env
