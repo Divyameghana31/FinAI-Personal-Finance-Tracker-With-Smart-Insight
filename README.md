@@ -20,7 +20,7 @@ track expenses, manage budgets, and predict future monthly expenses.
 - Frontend: React + TypeScript
 - Backend: FastAPI (Python)
 - Database: SQLite
-- Machine Learning: TensorFlow, Scikit-learn
+- Machine Learning: TensorFlow, Scikit-learn,ANN
 
 ## Project Structure
 - frontend/: User interface of the application
